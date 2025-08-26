@@ -14,17 +14,17 @@ pnpm-debug.log*
 .DS_Store
 Thumbs.db
 
-# IDE/editor files
+# IDE/editor configs
 .vscode/
 .idea/
 
-# Build artifacts (if you add any build process later)
+# Build artifacts
 dist/
 build/
 
-# Coverage/testing
+# Test/coverage
 coverage/
 
-# Temporary files
+# Temporary
 *.tmp
 *.swp
